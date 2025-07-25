@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/CoordinateTransformExample.dir/CoordinateTransformExample.cpp.o CMakeFiles/CoordinateTransformExample.dir/CoordinateTransform.cpp.o CMakeFiles/CoordinateTransformExample.dir/AircraftModelLibrary.cpp.o CMakeFiles/CoordinateTransformExample.dir/EulerAngleCalculation.cpp.o -o CoordinateTransformExample 

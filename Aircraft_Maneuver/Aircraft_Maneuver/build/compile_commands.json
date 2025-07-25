@@ -1,0 +1,122 @@
+[
+{
+  "directory": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/build",
+  "command": "/usr/bin/g++ -DUSE_EIGEN -isystem /usr/include/eigen3 -g -std=gnu++17 -Wall -Wextra -o CMakeFiles/Aircraft_Maneuver.dir/main.cpp.o -c /home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/main.cpp",
+  "file": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/main.cpp",
+  "output": "CMakeFiles/Aircraft_Maneuver.dir/main.cpp.o"
+},
+{
+  "directory": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/build",
+  "command": "/usr/bin/g++ -DUSE_EIGEN -isystem /usr/include/eigen3 -g -std=gnu++17 -Wall -Wextra -o CMakeFiles/Aircraft_Maneuver.dir/AircraftModelLibrary.cpp.o -c /home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/AircraftModelLibrary.cpp",
+  "file": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/AircraftModelLibrary.cpp",
+  "output": "CMakeFiles/Aircraft_Maneuver.dir/AircraftModelLibrary.cpp.o"
+},
+{
+  "directory": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/build",
+  "command": "/usr/bin/g++ -DUSE_EIGEN -isystem /usr/include/eigen3 -g -std=gnu++17 -Wall -Wextra -o CMakeFiles/Aircraft_Maneuver.dir/FighterJet.cpp.o -c /home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/FighterJet.cpp",
+  "file": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/FighterJet.cpp",
+  "output": "CMakeFiles/Aircraft_Maneuver.dir/FighterJet.cpp.o"
+},
+{
+  "directory": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/build",
+  "command": "/usr/bin/g++ -DUSE_EIGEN -isystem /usr/include/eigen3 -g -std=gnu++17 -Wall -Wextra -o CMakeFiles/Aircraft_Maneuver.dir/Maneuvers.cpp.o -c /home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/Maneuvers.cpp",
+  "file": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/Maneuvers.cpp",
+  "output": "CMakeFiles/Aircraft_Maneuver.dir/Maneuvers.cpp.o"
+},
+{
+  "directory": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/build",
+  "command": "/usr/bin/g++ -DUSE_EIGEN -isystem /usr/include/eigen3 -g -std=gnu++17 -Wall -Wextra -o CMakeFiles/Aircraft_Maneuver.dir/ManeuverModels.cpp.o -c /home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/ManeuverModels.cpp",
+  "file": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/ManeuverModels.cpp",
+  "output": "CMakeFiles/Aircraft_Maneuver.dir/ManeuverModels.cpp.o"
+},
+{
+  "directory": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/build",
+  "command": "/usr/bin/g++ -DUSE_EIGEN -isystem /usr/include/eigen3 -g -std=gnu++17 -Wall -Wextra -o CMakeFiles/Aircraft_Maneuver.dir/EulerAngleCalculation.cpp.o -c /home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/EulerAngleCalculation.cpp",
+  "file": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/EulerAngleCalculation.cpp",
+  "output": "CMakeFiles/Aircraft_Maneuver.dir/EulerAngleCalculation.cpp.o"
+},
+{
+  "directory": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/build",
+  "command": "/usr/bin/g++ -DUSE_EIGEN -isystem /usr/include/eigen3 -g -std=gnu++17 -Wall -Wextra -o CMakeFiles/ManeuverModelExample.dir/ManeuverModelExample.cpp.o -c /home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/ManeuverModelExample.cpp",
+  "file": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/ManeuverModelExample.cpp",
+  "output": "CMakeFiles/ManeuverModelExample.dir/ManeuverModelExample.cpp.o"
+},
+{
+  "directory": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/build",
+  "command": "/usr/bin/g++ -DUSE_EIGEN -isystem /usr/include/eigen3 -g -std=gnu++17 -Wall -Wextra -o CMakeFiles/ManeuverModelExample.dir/AircraftModelLibrary.cpp.o -c /home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/AircraftModelLibrary.cpp",
+  "file": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/AircraftModelLibrary.cpp",
+  "output": "CMakeFiles/ManeuverModelExample.dir/AircraftModelLibrary.cpp.o"
+},
+{
+  "directory": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/build",
+  "command": "/usr/bin/g++ -DUSE_EIGEN -isystem /usr/include/eigen3 -g -std=gnu++17 -Wall -Wextra -o CMakeFiles/ManeuverModelExample.dir/FighterJet.cpp.o -c /home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/FighterJet.cpp",
+  "file": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/FighterJet.cpp",
+  "output": "CMakeFiles/ManeuverModelExample.dir/FighterJet.cpp.o"
+},
+{
+  "directory": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/build",
+  "command": "/usr/bin/g++ -DUSE_EIGEN -isystem /usr/include/eigen3 -g -std=gnu++17 -Wall -Wextra -o CMakeFiles/ManeuverModelExample.dir/ManeuverModels.cpp.o -c /home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/ManeuverModels.cpp",
+  "file": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/ManeuverModels.cpp",
+  "output": "CMakeFiles/ManeuverModelExample.dir/ManeuverModels.cpp.o"
+},
+{
+  "directory": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/build",
+  "command": "/usr/bin/g++ -DUSE_EIGEN -isystem /usr/include/eigen3 -g -std=gnu++17 -Wall -Wextra -o CMakeFiles/ManeuverModelExample.dir/EulerAngleCalculation.cpp.o -c /home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/EulerAngleCalculation.cpp",
+  "file": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/EulerAngleCalculation.cpp",
+  "output": "CMakeFiles/ManeuverModelExample.dir/EulerAngleCalculation.cpp.o"
+},
+{
+  "directory": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/build",
+  "command": "/usr/bin/g++ -DUSE_EIGEN -isystem /usr/include/eigen3 -g -std=gnu++17 -Wall -Wextra -o CMakeFiles/test_compile.dir/test_compile.cpp.o -c /home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/test_compile.cpp",
+  "file": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/test_compile.cpp",
+  "output": "CMakeFiles/test_compile.dir/test_compile.cpp.o"
+},
+{
+  "directory": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/build",
+  "command": "/usr/bin/g++ -DUSE_EIGEN -isystem /usr/include/eigen3 -g -std=gnu++17 -Wall -Wextra -o CMakeFiles/test_compile.dir/AircraftModelLibrary.cpp.o -c /home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/AircraftModelLibrary.cpp",
+  "file": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/AircraftModelLibrary.cpp",
+  "output": "CMakeFiles/test_compile.dir/AircraftModelLibrary.cpp.o"
+},
+{
+  "directory": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/build",
+  "command": "/usr/bin/g++ -DUSE_EIGEN -isystem /usr/include/eigen3 -g -std=gnu++17 -Wall -Wextra -o CMakeFiles/test_compile.dir/FighterJet.cpp.o -c /home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/FighterJet.cpp",
+  "file": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/FighterJet.cpp",
+  "output": "CMakeFiles/test_compile.dir/FighterJet.cpp.o"
+},
+{
+  "directory": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/build",
+  "command": "/usr/bin/g++ -DUSE_EIGEN -isystem /usr/include/eigen3 -g -std=gnu++17 -Wall -Wextra -o CMakeFiles/test_compile.dir/ManeuverModels.cpp.o -c /home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/ManeuverModels.cpp",
+  "file": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/ManeuverModels.cpp",
+  "output": "CMakeFiles/test_compile.dir/ManeuverModels.cpp.o"
+},
+{
+  "directory": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/build",
+  "command": "/usr/bin/g++ -DUSE_EIGEN -isystem /usr/include/eigen3 -g -std=gnu++17 -Wall -Wextra -o CMakeFiles/test_compile.dir/EulerAngleCalculation.cpp.o -c /home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/EulerAngleCalculation.cpp",
+  "file": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/EulerAngleCalculation.cpp",
+  "output": "CMakeFiles/test_compile.dir/EulerAngleCalculation.cpp.o"
+},
+{
+  "directory": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/build",
+  "command": "/usr/bin/g++ -DUSE_EIGEN -isystem /usr/include/eigen3 -g -std=gnu++17 -Wall -Wextra -o CMakeFiles/CoordinateTransformExample.dir/CoordinateTransformExample.cpp.o -c /home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/CoordinateTransformExample.cpp",
+  "file": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/CoordinateTransformExample.cpp",
+  "output": "CMakeFiles/CoordinateTransformExample.dir/CoordinateTransformExample.cpp.o"
+},
+{
+  "directory": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/build",
+  "command": "/usr/bin/g++ -DUSE_EIGEN -isystem /usr/include/eigen3 -g -std=gnu++17 -Wall -Wextra -o CMakeFiles/CoordinateTransformExample.dir/CoordinateTransform.cpp.o -c /home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/CoordinateTransform.cpp",
+  "file": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/CoordinateTransform.cpp",
+  "output": "CMakeFiles/CoordinateTransformExample.dir/CoordinateTransform.cpp.o"
+},
+{
+  "directory": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/build",
+  "command": "/usr/bin/g++ -DUSE_EIGEN -isystem /usr/include/eigen3 -g -std=gnu++17 -Wall -Wextra -o CMakeFiles/CoordinateTransformExample.dir/AircraftModelLibrary.cpp.o -c /home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/AircraftModelLibrary.cpp",
+  "file": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/AircraftModelLibrary.cpp",
+  "output": "CMakeFiles/CoordinateTransformExample.dir/AircraftModelLibrary.cpp.o"
+},
+{
+  "directory": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/build",
+  "command": "/usr/bin/g++ -DUSE_EIGEN -isystem /usr/include/eigen3 -g -std=gnu++17 -Wall -Wextra -o CMakeFiles/CoordinateTransformExample.dir/EulerAngleCalculation.cpp.o -c /home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/EulerAngleCalculation.cpp",
+  "file": "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/EulerAngleCalculation.cpp",
+  "output": "CMakeFiles/CoordinateTransformExample.dir/EulerAngleCalculation.cpp.o"
+}
+]

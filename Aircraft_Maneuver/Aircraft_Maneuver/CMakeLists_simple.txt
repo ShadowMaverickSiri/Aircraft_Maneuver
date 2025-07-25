@@ -1,0 +1,36 @@
+cmake_minimum_required(VERSION 3.10)
+project(Aircraft_Maneuver_Simple)
+
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+# 基础源文件
+set(BASE_SOURCES
+    AircraftModelLibrary.cpp
+    FighterJet.cpp
+    EulerAngleCalculation.cpp
+    ManeuverModels.cpp
+    Maneuvers.cpp
+)
+
+# 创建主可执行文件
+add_executable(Aircraft_Maneuver_Simple 
+    main.cpp 
+    ${BASE_SOURCES}
+)
+
+# 创建简单测试程序
+add_executable(SimpleTest 
+    simple_test.cpp 
+    ${BASE_SOURCES}
+)
+
+# 编译选项
+target_compile_options(Aircraft_Maneuver_Simple PRIVATE -Wall -Wextra)
+target_compile_options(SimpleTest PRIVATE -Wall -Wextra)
+
+# 如果使用MSVC编译器
+if(MSVC)
+    target_compile_options(Aircraft_Maneuver_Simple PRIVATE /W4)
+    target_compile_options(SimpleTest PRIVATE /W4)
+endif() 

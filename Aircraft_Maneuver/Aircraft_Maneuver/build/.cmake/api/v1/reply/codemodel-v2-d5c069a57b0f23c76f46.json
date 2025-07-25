@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-dbc786aa599c392dd056.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Aircraft_Maneuver",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Aircraft_Maneuver::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aircraft_Maneuver-Debug-a7c3ba5bdd8e1b9c915a.json",
+					"name" : "Aircraft_Maneuver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CoordinateTransformExample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CoordinateTransformExample-Debug-8460af473e09b2b0c7d3.json",
+					"name" : "CoordinateTransformExample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ManeuverModelExample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ManeuverModelExample-Debug-b95ca364886a435e130b.json",
+					"name" : "ManeuverModelExample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_compile::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_compile-Debug-cf0950d91c34375e438c.json",
+					"name" : "test_compile",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver/build",
+		"source" : "/home/caesarlsy/local/Code/Aircraft_Maneuver/Aircraft_Maneuver"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
